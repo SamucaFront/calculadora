@@ -28,15 +28,9 @@
     height: 50px;
     font-size: 25px;
     cursor: pointer;
-    background-color: rgb(31,31,31);
     border: none;
     color: white; 
     margin: 3px;
-}
-
-.button:hover{
-    background-color: black;
-
 }
 
 #Resultado{
@@ -49,3 +43,4 @@
     text-align: right;
     padding: 5px;
 }
+
