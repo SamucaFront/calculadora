@@ -6,9 +6,9 @@ Uma calculadora básica criada com **HTML**, **CSS** e **JavaScript**.
 - Design simples e intuitivo.
 
 ## Tecnologias Usadas
-HTML  
-CSS  
-JavaScript
+- HTML  
+- CSS  
+- JavaScript
 
 
 ## Como Usar  
